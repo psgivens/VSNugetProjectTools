@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>VSNugetProjectTools</id>
+    <version>0.0.0.1</version>
+    <authors>Phillip Scott Givens</authors>
+    <owners>Phillip Scott Givens</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://www.phillipgivens.com</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package for working with nuget/nuspec from withing Package Manager</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Nuget, Package Manager</tags>
+  </metadata>
+</package>
